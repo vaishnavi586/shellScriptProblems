@@ -1,0 +1,6 @@
+echo - | awk '{print 42/12}'
+echo - | awk '{print 60*0.3048}'
+echo - | awk '{print 40*0.3048}'
+echo - | awk '{print  12.192*18.288}'
+echo - | awk '{print  12.192*18.288*25}'
+ echo - | awk '{print 5574.18/4046.85}'
